@@ -18,14 +18,14 @@ We participated in the [Boston regional contest](https://www.spaceappschallenge.
 - [Oral Presentation slides](https://docs.google.com/presentation/d/166a0fMkDra3B9j8fxCaG4QLcnFUE1G8V7Rina4QTMiw/edit?usp=sharing) at Boston local judging
 
 
-### Project Summary:
+## Project Summary:
 
 The FutureSpace Navigators is a team of four high school students. We worked on a wide range of data analytics to estimate the likelihood of certain weather conditions at a location and time with NASA EarthData.
 
-(1) Estimating heat stress and risk in outdoor activities
+#### (1) Estimating heat stress and risk in outdoor activities
 
-(2) Estimating the pleasure and productivity of fishing
+#### (2) Estimating the pleasure and productivity of fishing
 
-(3) Estimating the chances of weather-related pain and other symptoms
+#### (3) Estimating the chances of weather-related pain and other symptoms
 
-(4) Estimating the visibility of auroras
+#### (4) Estimating the visibility of auroras
